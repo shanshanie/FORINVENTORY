@@ -1,0 +1,1 @@
+export { DeployedEquipments } from "./DeployedEquipments";
